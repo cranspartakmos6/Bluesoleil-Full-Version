@@ -238,3 +238,6 @@ This repository serves as the official landing page for Bluesoleil. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Bluesoleil today!**
+
+---
+**Last updated:** 2026-09-07 22:24:58 UTC
